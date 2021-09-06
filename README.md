@@ -47,7 +47,7 @@
 
 
 
-<img align="" height='250px' src="https://github-readme-stats.vercel.app/api?username=baynarkozcu&show_icons=true&theme=gruvbox&include_all_commits=true" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="" height='250px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=baynarkozcu" />
+<img align="" height='250px' src="https://github-readme-stats.vercel.app/api?username=gunesenes&show_icons=true&theme=gruvbox&include_all_commits=true" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="" height='250px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunesenes" />
 
 
 <br>
