@@ -20,10 +20,7 @@
 ### Languages and Tools: 
 
 <div align="center">
-<img  alt="Flutter" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,23 +28,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 <img  alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Laravel" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img  alt="AWS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
